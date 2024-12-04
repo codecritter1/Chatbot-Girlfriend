@@ -1,2 +1,3 @@
 # Chatbot-Girlfriend
-The easiest Chatbot Girlfriend you can make in less than 5 minutes.
+The knowledge_base.json is the first file and the main.py is the second file
+
